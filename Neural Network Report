@@ -1,0 +1,7 @@
+Deep learning and Neural Networks were used to determine whether applicants would be successful if funded by Alphabet Soup.
+
+The EIN and NAME were removed from the dataset. The remaining columns were used for the model. Classificaiton and Application_type were replaced with 'Other'. The data was then split into two sets of data. 
+
+Neural Network was applied on each model two layers. The number of features dictated the number of hidden nodes.
+
+The Neural Network trained model acieved over 70% prediction accuract with a 0.56 loss. 
